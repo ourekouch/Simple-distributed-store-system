@@ -13,7 +13,9 @@ This project implements a distributed store system, also known as a Distributed 
 The project is divided into three parts:
 
 Day 1: A simple implementation of the system based on an in-memory Key-Value HashTable.
+
 Day 2: An improved implementation using durable actors which implement the key-value abstraction with an append-only file.
+
 Day 3: Implementation of caching actors to improve overall performance of the system.
 
 ## Usage
