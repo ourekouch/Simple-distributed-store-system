@@ -25,7 +25,7 @@ To use the system, follow these steps:
 
 2- Run the sbt command by typing sbt in the terminal and then type update command
 
-3- after that you should comment all other scala files in "example" folder, and uncomment only files you want to run.
+3- Before running any scala file you should comment all other scala files in "example" folder, and uncomment only the file you want to run.
 
 4-Use the available methods to store, lookup, or delete keys and their associated values.
 
