@@ -20,9 +20,13 @@ Day 3: Implementation of caching actors to improve overall performance of the sy
 
 ## Usage
 To use the system, follow these steps:
+
 1- Clone the repository.
+
 2- Run the sbt command by typing sbt in the terminal and then type update command
+
 3- after that you should comment all other scala files in "example" folder, and uncomment only files you want to run.
+
 4-Use the available methods to store, lookup, or delete keys and their associated values.
 
 ## Testing
