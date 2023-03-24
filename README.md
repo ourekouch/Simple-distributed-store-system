@@ -1,5 +1,10 @@
 # Simple-distributed-store-system
 
+NAME : **<span style="color:blue">MOUNIR OUREKOUCH</span>**
+CLASS : DNA 2022
+
+
+
 ## Description
 This project implements a distributed store system, also known as a Distributed File System, using the actor model in Akka. The system provides a key-value store with basic operations such as store, lookup, and delete. 
 
